@@ -25,7 +25,7 @@ json {
 
 ## 2. 現成Json Zip下載說明
 
-### 2-1 下載連結 :
+### 2-1 下載連結 : https://drive.google.com/file/d/1CirauRrJkuMT-Cx1jf2npa_5_dsHZiR3/view?usp=sharing
 
 ### 2-2 Json檔案說明 :
 
